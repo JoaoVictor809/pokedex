@@ -1,6 +1,7 @@
 # Introdução
 Um dispositivo para pesquisar todos os pokemons
 
+<img src="./images/pokedex.png">
 # Techs 
 <strong>JavaScript</strong>: JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma<br>
 <strong>Html</strong>: HTML é uma linguagem de marcação utilizada na construção de páginas na Web<br>
